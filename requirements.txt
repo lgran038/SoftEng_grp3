@@ -1,0 +1,6 @@
+Django==1.11.7
+django-enumchoicefield==0.9.0
+enum34==1.1.6
+ez-setup==0.9
+psycopg2==2.7.3.2
+pytz==2017.3
